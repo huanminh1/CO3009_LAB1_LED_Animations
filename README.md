@@ -37,6 +37,6 @@ STM32F103C6_LAB1_EX2.pdsprj
 ...
 ```
 ## 4. Note
-Ensure correct clock configuration in CubeMX before building.  
-If running on hardware, connect LEDs and resistors exactly as per schematic.  
-The .gitignore is set up to exclude build outputs and temporary files, so only source code and important project files remain in the repository.
+1. Ensure correct clock configuration in CubeMX before building.
+2. If running on hardware, connect LEDs and resistors exactly as per schematic. 
+3. The .gitignore is set up to exclude build outputs and temporary files, so only source code and important project files remain in the repository.
