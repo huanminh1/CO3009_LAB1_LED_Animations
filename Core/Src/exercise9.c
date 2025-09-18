@@ -19,7 +19,7 @@ void ex9_init(){
 }
 
 /**
- * @brief State transitions for 2 LEDs every 2s
+ * @brief
  */
 
 void clearNumberOnClock(int num){

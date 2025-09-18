@@ -28,7 +28,7 @@ void ex6_init(){
 }
 
 /**
- * @brief State transitions for 2 LEDs every 2s
+ * @brief
  */
 void ex6_run(){
 	int counter = 12;

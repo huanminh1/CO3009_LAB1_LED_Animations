@@ -28,7 +28,7 @@ void ex5_init(){
 }
 
 /**
- * @brief State transitions for 2 LEDs every 2s
+ * @brief
  */
 void ex5_run(){
 	//Led Vertical
