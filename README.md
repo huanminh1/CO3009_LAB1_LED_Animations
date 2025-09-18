@@ -1,7 +1,7 @@
 # MICROCONTROLLER - MICROPROCESSOR  
 ## LABORATORY 1: LED ANIMATION
 
-This project is the first lab designed to get familiar with **GPIO (General Purpose Input/Output)** using the STM32F103C6 microcontroller.  
+This project is the first lab designed to get familiar with **GPIO (General Purpose Input/Output)** using the STM32F103C6 microcontroller.
 The main focus is implementing **LED Animations** through multiple exercises.
 
 ## 1. Schematic
@@ -37,6 +37,6 @@ STM32F103C6_LAB1_EX2.pdsprj
 ...
 ```
 ## 4. Note
-Ensure correct clock configuration in CubeMX before building.
-If running on hardware, connect LEDs and resistors exactly as per schematic.
+Ensure correct clock configuration in CubeMX before building.  
+If running on hardware, connect LEDs and resistors exactly as per schematic.  
 The .gitignore is set up to exclude build outputs and temporary files, so only source code and important project files remain in the repository.
