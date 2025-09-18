@@ -6,9 +6,9 @@ The main focus is implementing **LED Animations** through multiple exercises.
 
 ## 1. Schematic
 The code was simulated in **Proteus 8** using STM32F103C6.
-
-## 2. Project Structure
 ```markdown
+## 2. Project Structure
+```
 LAB1_LED_Animation/
 ├── Core/
 │   ├── Inc/        # Header files (.h)
@@ -17,7 +17,7 @@ LAB1_LED_Animation/
 ├── Debug/          
 ├── Proteus/        # Proteus simulation files
 └── README.md
-|-- Images          # Images of Proteus schematics
+|--- Images          # Images of Proteus schematics
 ```
 # 3. How to Run the Code
 Each exercise is implemented in separate `.c` and `.h` files under `./Core/Src/` and `./Core/Inc/`. There are 2 ways to run the Code
