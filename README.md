@@ -7,7 +7,7 @@ The main focus is implementing **LED Animations** through multiple exercises.
 ## 1. Schematic
 The code was simulated in **Proteus 8** using STM32F103C6.
 
-# 2. How to Run the Code
+## 2. How to Run the Code
 Each exercise is implemented in separate `.c` and `.h` files under `./Core/Src/` and `./Core/Inc/`. There are 2 ways to run the Code
 ### 2.1. Clone this Project and Run:
 If you clone this project to your local device, you only need to change `RUN_EXERCISE` in `./Core/Src/main.c` to the exercise number you want to run (from `1` to `10`).
