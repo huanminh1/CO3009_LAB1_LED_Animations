@@ -20,8 +20,7 @@ If you clone this project to your local device, you only need to change `RUN_EXE
 ```c
 #include "exercise-.h"
 ```
-3. Run the code. Each exercises has two main functions: `exercise-_init()` ensure all necessary pins are available; and `exercise-_run()` to execute the exercise requirements.
- You should palce `exercise-_init()` in between:
+3. Run the code. Each exercises has two main functions: `exercise-_init()` ensure all necessary pins are available; and `exercise-_run()` to execute the exercise requirements.  You should palce `exercise-_init()` in between:
 ```c
 /* USER CODE BEGIN 2 */
 // TODO
