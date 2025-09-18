@@ -43,7 +43,7 @@ void ex10_run(){
 		if(hour >= 12){
 			hour = 0;
 		}
-		HAL_Delay(1000);
+		HAL_Delay(20);
 	}
 }
 
