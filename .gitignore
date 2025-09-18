@@ -1,0 +1,9 @@
+.metadata/
+.settings/
+[Rr]elease/
+[Dd]ebug/
+*.ld
+*.mxproject
+*.cproject
+*.pdsbak
+*.PDF
