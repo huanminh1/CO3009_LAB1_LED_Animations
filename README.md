@@ -6,6 +6,7 @@ The main focus is implementing **LED Animations** through multiple exercises.
 
 ## 1. Schematic
 The code was simulated in **Proteus 8** using STM32F103C6.
+
 ![Proteus Simulation](https://github.com/huanminh1/CO3009_LAB1_LED_Animations/blob/main/Images/Proteus_LAB1_EX5_6_7_8_9_10.png)
 
 ## 2. How to Run the Code
